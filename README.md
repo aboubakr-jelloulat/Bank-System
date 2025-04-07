@@ -6,7 +6,7 @@
 
 > **A comprehensive console-based banking system built with C++ and Object-Oriented Programming principles.**
 >
-> ## 🙏 Acknowledgements
+> ## 🤝 Acknowledgements
 ```
 I would like to express my sincere gratitude to my teacher who guided me throughout the development of this project:
 
